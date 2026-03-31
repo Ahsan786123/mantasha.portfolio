@@ -52,11 +52,22 @@ const Services = () => {
                 <h3 className="font-heading text-xl font-bold uppercase tracking-wider text-foreground mb-4">
                   {service.title}
                 </h3>
+                
                 <p className="text-muted-foreground leading-relaxed">{service.description}</p>
               </div>
             </div>
           ))}
         </div>
+        <div className="text-center mt-12">
+  <a
+    href="https://bppbrprt6u0.typeform.com/to/xjtg34ta"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-block bg-primary text-primary-foreground px-8 py-3 text-sm font-semibold rounded-full hover:shadow-lg hover:shadow-primary/25 hover:-translate-y-0.5 transition-all duration-300"
+  >
+    Apply for Services
+  </a>
+</div>
       </div>
     </section>
   );
