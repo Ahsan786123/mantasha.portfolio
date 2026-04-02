@@ -1,5 +1,4 @@
-import caseImg from "@/assets/case-study.jpg";
-import caseImg2 from "@/assets/case-study-2.png";
+import caseImg from "@/assets/special_win.png";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 
 const CaseStudy = () => {
@@ -21,9 +20,7 @@ const CaseStudy = () => {
             <div className="rounded-2xl overflow-hidden bg-background border border-border shadow-sm hover:shadow-lg transition-all duration-500 p-1 group">
               <img src={caseImg} alt="Client case study results" className="w-full rounded-xl transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy" />
             </div>
-            <div className="rounded-2xl overflow-hidden bg-background border border-border shadow-sm hover:shadow-lg transition-all duration-500 p-1 group">
-              <img src={caseImg2} alt="Client ranking achievement" className="w-full rounded-xl transition-transform duration-700 group-hover:scale-[1.02]" loading="lazy" />
-            </div>
+           
           </div>
           <div className="space-y-8">
             <h3 className="font-heading text-2xl md:text-3xl lg:text-4xl font-bold uppercase text-foreground">
