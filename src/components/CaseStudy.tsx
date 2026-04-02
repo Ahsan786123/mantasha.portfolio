@@ -1,4 +1,4 @@
-import caseImg from "@/assets/special_win.png";
+import caseImg from "@/assets/MANTASHA Portfolio.png";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 
 const CaseStudy = () => {
