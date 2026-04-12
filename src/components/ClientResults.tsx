@@ -3,6 +3,7 @@ import result2 from "@/assets/client-result-2.png";
 import result3 from "@/assets/client-result-3.png";
 import result4 from "@/assets/client-result-4.png";
 import result5 from "@/assets/client-result-5.png";
+import result6 from "@/assets/client-result-6.png";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 
 const images = [
@@ -11,6 +12,7 @@ const images = [
   { src: result3, alt: "Client impressions growth" },
   { src: result4, alt: "Client engagement results" },
   { src: result5, alt: "Client page metrics" },
+  { src: result6, alt: "Client page metrics" },
 ];
 
 const ClientResults = () => {

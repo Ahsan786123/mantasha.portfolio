@@ -38,7 +38,7 @@ const CaseStudy = () => {
             </div>
             <div className="grid grid-cols-2 gap-6 pt-6 border-t border-border">
               <div>
-                <p className="font-heading text-3xl md:text-4xl font-bold text-gradient">86,824</p>
+                <p className="font-heading text-3xl md:text-4xl font-bold text-gradient">47,120</p>
                 <p className="text-muted-foreground text-sm uppercase tracking-wider mt-1">Total Followers</p>
               </div>
               <div>
