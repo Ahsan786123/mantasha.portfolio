@@ -1,4 +1,4 @@
-import profileImg from "@/assets/2.png";
+import profileImg from "@/assets/mantasha.png";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 
 const highlights = [
